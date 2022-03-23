@@ -1,0 +1,9 @@
+
+
+Sp far we learn git flow for
+commit --> push
+
+and
+
+remote-> local
+
